@@ -22,7 +22,7 @@ Each project is a standalone folder with its own `main.py` and `README.md`.
 
 | # | Project Name | Description | Path |
 |---|---|---|---|
-| 01 | Project Name 1 | A brief description of what this project does and what concepts it covers. | `./project_name_1/` |
+| 01 | passwordMaker | Python script for generating secure, customizable random passwords with letters, numbers, and symbols. | `./passwordMaker.py/` |
 | 02 | ... | (More projects coming soon) |  |
 | 03 | ... | (More projects coming soon) |  |
 
