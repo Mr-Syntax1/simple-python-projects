@@ -41,6 +41,6 @@ Each project is a standalone folder with its own `main.py` and `README.md`.
 
 1.  **Clone the repository:**
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Mr-Syntax1/simple-python-projects.git
 cd simple-python-projects
 
