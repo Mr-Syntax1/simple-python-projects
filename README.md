@@ -23,7 +23,7 @@ Each project is a standalone folder with its own `main.py` and `README.md`.
 | # | Project Name | Description | Path |
 |---|---|---|---|
 | 01 | passwordMaker | Python script for generating secure, customizable random passwords with letters, numbers, and symbols. | `./passwordMaker.py/` |
-| 02 | ... | (More projects coming soon) |  |
+| 02 | guessNumber | A script that you have to guesses the correct number (0–101) | `./guessNumber.py/` |
 | 03 | ... | (More projects coming soon) |  |
 
 *(To add a new project, create a new folder, add a `main.py` and a `README.md` inside, and then add a new row to this table.)*
